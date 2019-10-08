@@ -1,0 +1,1 @@
+/home/petrkr/Arduino/octopuslab/esp32-micropython/util/wifi_connect.py
